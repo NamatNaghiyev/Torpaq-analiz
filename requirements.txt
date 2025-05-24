@@ -5,5 +5,5 @@ numpy
 scikit-learn
 seaborn
 nltk
-tensorflow>=2.19.0
+tensorflow-cpu==2.13.0
 tf
