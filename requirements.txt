@@ -5,5 +5,5 @@ numpy
 scikit-learn
 seaborn
 nltk
-tensorflow
+tensorflow>=2.19.0
 tf
